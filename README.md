@@ -11,4 +11,4 @@
 ## 技术介绍
 **后端**：SpringBoot + MybatisPlus + Redis + SpringSecurity + Mysql + Swagger2； 
 ## 项目截图
-！[前台](https://github.com/Huuuuuuoo/my_blog/blob/master/blog%E5%9B%BE%E7%89%87/blog%E9%A1%B5%E9%9D%A2.png)
+![image](https://github.com/Huuuuuuoo/my_blog/blob/master/blog%E5%9B%BE%E7%89%87/blog%E9%A1%B5%E9%9D%A2.png)
